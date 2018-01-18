@@ -1,0 +1,474 @@
+[2018-01-09 22:02:42] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/0s1.shtml 网页数据:
+[2018-01-09 22:02:42] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:42] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/0s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:42] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:42] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/25s1.shtml 网页数据:
+[2018-01-09 22:02:42] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:42] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/25s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:43] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:43] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/50s1.shtml 网页数据:
+[2018-01-09 22:02:43] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:43] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/50s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:43] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:43] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/75s1.shtml 网页数据:
+[2018-01-09 22:02:43] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:43] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/75s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:44] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:44] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/100s1.shtml 网页数据:
+[2018-01-09 22:02:44] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:44] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/100s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:44] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:44] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/125s1.shtml 网页数据:
+[2018-01-09 22:02:44] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:44] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/125s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:44] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:44] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/150s1.shtml 网页数据:
+[2018-01-09 22:02:44] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:45] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/150s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:45] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:45] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/175s1.shtml 网页数据:
+[2018-01-09 22:02:45] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:45] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/175s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:45] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:45] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/200s1.shtml 网页数据:
+[2018-01-09 22:02:45] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:45] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/200s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:46] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:46] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/225s1.shtml 网页数据:
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/225s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:46] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:46] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/250s1.shtml 网页数据:
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/250s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:46] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:46] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/275s1.shtml 网页数据:
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:46] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/275s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:47] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:47] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/300s1.shtml 网页数据:
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/300s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:47] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:47] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/325s1.shtml 网页数据:
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/325s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:47] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:47] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/350s1.shtml 网页数据:
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:47] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/350s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:48] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:48] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/375s1.shtml 网页数据:
+[2018-01-09 22:02:48] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:48] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/375s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:48] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:48] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/400s1.shtml 网页数据:
+[2018-01-09 22:02:48] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:48] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/400s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:48] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:48] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/425s1.shtml 网页数据:
+[2018-01-09 22:02:48] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:49] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/425s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:49] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:49] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/450s1.shtml 网页数据:
+[2018-01-09 22:02:49] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:49] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/450s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:49] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:49] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/475s1.shtml 网页数据:
+[2018-01-09 22:02:49] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:50] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/475s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:50] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:50] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/500s1.shtml 网页数据:
+[2018-01-09 22:02:50] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:50] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/500s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:50] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:50] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/525s1.shtml 网页数据:
+[2018-01-09 22:02:50] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:50] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/525s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:51] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:51] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/550s1.shtml 网页数据:
+[2018-01-09 22:02:51] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:51] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/550s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:51] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:51] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/575s1.shtml 网页数据:
+[2018-01-09 22:02:51] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:52] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/575s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:52] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:52] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/600s1.shtml 网页数据:
+[2018-01-09 22:02:52] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:52] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/600s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:52] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:52] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/625s1.shtml 网页数据:
+[2018-01-09 22:02:53] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:53] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/625s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:53] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:53] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/650s1.shtml 网页数据:
+[2018-01-09 22:02:53] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:53] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/650s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:53] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:53] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/675s1.shtml 网页数据:
+[2018-01-09 22:02:53] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:54] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/675s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:54] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:54] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/700s1.shtml 网页数据:
+[2018-01-09 22:02:54] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:54] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/700s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:54] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:54] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/725s1.shtml 网页数据:
+[2018-01-09 22:02:54] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:54] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/725s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:55] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:55] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/750s1.shtml 网页数据:
+[2018-01-09 22:02:55] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:55] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/750s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:55] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:02:55] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/775s1.shtml 网页数据:
+[2018-01-09 22:02:55] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/775s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:56] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:56] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/800s1.shtml 网页数据:
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/800s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:56] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:56] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/825s1.shtml 网页数据:
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/825s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:56] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:56] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/850s1.shtml 网页数据:
+[2018-01-09 22:02:56] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:57] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/850s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:57] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:57] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/875s1.shtml 网页数据:
+[2018-01-09 22:02:57] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:57] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/875s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:57] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:57] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/900s1.shtml 网页数据:
+[2018-01-09 22:02:57] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:57] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/900s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:58] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:58] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/925s1.shtml 网页数据:
+[2018-01-09 22:02:58] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:58] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/925s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:58] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:58] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/950s1.shtml 网页数据:
+[2018-01-09 22:02:58] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:59] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/950s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:59] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:59] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/975s1.shtml 网页数据:
+[2018-01-09 22:02:59] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:59] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/975s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:02:59] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:02:59] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1000s1.shtml 网页数据:
+[2018-01-09 22:02:59] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:02:59] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1000s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:00] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:00] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1025s1.shtml 网页数据:
+[2018-01-09 22:03:00] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:00] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1025s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:00] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:00] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1050s1.shtml 网页数据:
+[2018-01-09 22:03:00] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:01] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1050s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:01] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:01] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1075s1.shtml 网页数据:
+[2018-01-09 22:03:01] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1075s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:02] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:02] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1100s1.shtml 网页数据:
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1100s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:02] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:02] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1125s1.shtml 网页数据:
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1125s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:02] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:02] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1150s1.shtml 网页数据:
+[2018-01-09 22:03:02] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:03] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1150s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:03] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:03] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1175s1.shtml 网页数据:
+[2018-01-09 22:03:03] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:03] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1175s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:03] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:03] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1200s1.shtml 网页数据:
+[2018-01-09 22:03:03] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:03] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1200s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:04] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:04] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1225s1.shtml 网页数据:
+[2018-01-09 22:03:04] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:04] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1225s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:04] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:04] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1250s1.shtml 网页数据:
+[2018-01-09 22:03:04] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:04] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1250s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:05] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:05] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1275s1.shtml 网页数据:
+[2018-01-09 22:03:05] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:05] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1275s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:05] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:05] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1300s1.shtml 网页数据:
+[2018-01-09 22:03:05] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:05] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1300s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:06] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:06] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1325s1.shtml 网页数据:
+[2018-01-09 22:03:06] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:06] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1325s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:06] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:06] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1350s1.shtml 网页数据:
+[2018-01-09 22:03:06] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:06] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1350s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:06] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:06] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1375s1.shtml 网页数据:
+[2018-01-09 22:03:06] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:07] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1375s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:07] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:07] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1400s1.shtml 网页数据:
+[2018-01-09 22:03:07] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:07] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1400s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:07] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:07] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1425s1.shtml 网页数据:
+[2018-01-09 22:03:07] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:08] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1425s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:08] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:08] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1450s1.shtml 网页数据:
+[2018-01-09 22:03:08] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:08] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1450s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:09] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:09] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1475s1.shtml 网页数据:
+[2018-01-09 22:03:09] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:09] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1475s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:09] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:09] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1500s1.shtml 网页数据:
+[2018-01-09 22:03:09] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:09] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1500s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:09] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:09] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1525s1.shtml 网页数据:
+[2018-01-09 22:03:09] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:13] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1525s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:14] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:14] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1550s1.shtml 网页数据:
+[2018-01-09 22:03:14] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:14] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1550s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:14] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:14] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1575s1.shtml 网页数据:
+[2018-01-09 22:03:14] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:16] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1575s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:16] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:16] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1600s1.shtml 网页数据:
+[2018-01-09 22:03:16] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:17] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1600s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:17] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:17] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1625s1.shtml 网页数据:
+[2018-01-09 22:03:17] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:17] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1625s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:17] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:17] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1650s1.shtml 网页数据:
+[2018-01-09 22:03:17] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:17] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1650s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:18] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:18] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1675s1.shtml 网页数据:
+[2018-01-09 22:03:18] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:20] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1675s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:20] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:20] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1700s1.shtml 网页数据:
+[2018-01-09 22:03:20] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:24] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1700s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:24] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:24] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1725s1.shtml 网页数据:
+[2018-01-09 22:03:24] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:24] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1725s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:25] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:25] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1750s1.shtml 网页数据:
+[2018-01-09 22:03:25] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:27] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1750s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:27] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:27] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1775s1.shtml 网页数据:
+[2018-01-09 22:03:27] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:27] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1775s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:27] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:27] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1800s1.shtml 网页数据:
+[2018-01-09 22:03:27] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:27] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1800s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:28] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:28] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1825s1.shtml 网页数据:
+[2018-01-09 22:03:28] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:28] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1825s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:28] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:28] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1850s1.shtml 网页数据:
+[2018-01-09 22:03:28] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:29] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1850s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:29] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:29] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1875s1.shtml 网页数据:
+[2018-01-09 22:03:29] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:29] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1875s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:29] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:29] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1900s1.shtml 网页数据:
+[2018-01-09 22:03:29] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:31] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1900s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:31] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:31] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1925s1.shtml 网页数据:
+[2018-01-09 22:03:31] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:34] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1925s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:34] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:34] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1950s1.shtml 网页数据:
+[2018-01-09 22:03:34] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:34] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1950s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:35] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:35] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/1975s1.shtml 网页数据:
+[2018-01-09 22:03:35] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:35] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/1975s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:35] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:35] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2000s1.shtml 网页数据:
+[2018-01-09 22:03:35] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:37] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2000s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:37] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:37] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2025s1.shtml 网页数据:
+[2018-01-09 22:03:37] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:40] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2025s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:40] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:40] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2050s1.shtml 网页数据:
+[2018-01-09 22:03:40] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:42] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2050s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:42] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:42] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2075s1.shtml 网页数据:
+[2018-01-09 22:03:42] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:42] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2075s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:43] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:43] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2100s1.shtml 网页数据:
+[2018-01-09 22:03:43] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:45] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2100s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:45] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:45] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2125s1.shtml 网页数据:
+[2018-01-09 22:03:45] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:48] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2125s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:48] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:48] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2150s1.shtml 网页数据:
+[2018-01-09 22:03:48] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:48] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2150s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:48] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:48] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2175s1.shtml 网页数据:
+[2018-01-09 22:03:48] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:49] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2175s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:49] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:49] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2200s1.shtml 网页数据:
+[2018-01-09 22:03:49] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:51] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2200s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:51] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:51] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2225s1.shtml 网页数据:
+[2018-01-09 22:03:51] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:53] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2225s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:54] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:54] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2250s1.shtml 网页数据:
+[2018-01-09 22:03:54] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:54] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2250s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:54] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:54] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2275s1.shtml 网页数据:
+[2018-01-09 22:03:54] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:56] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2275s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:56] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:56] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2300s1.shtml 网页数据:
+[2018-01-09 22:03:56] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:56] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2300s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:56] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:03:56] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2325s1.shtml 网页数据:
+[2018-01-09 22:03:56] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:03:57] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2325s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:03:57] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:03:57] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2350s1.shtml 网页数据:
+[2018-01-09 22:03:57] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:00] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2350s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:00] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:00] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2375s1.shtml 网页数据:
+[2018-01-09 22:04:00] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:00] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2375s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:01] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:01] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2400s1.shtml 网页数据:
+[2018-01-09 22:04:01] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:03] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2400s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:03] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:03] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2425s1.shtml 网页数据:
+[2018-01-09 22:04:03] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:03] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2425s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:04] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:04] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2450s1.shtml 网页数据:
+[2018-01-09 22:04:04] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:06] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2450s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:06] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:06] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2475s1.shtml 网页数据:
+[2018-01-09 22:04:06] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:06] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2475s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:06] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:06] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2500s1.shtml 网页数据:
+[2018-01-09 22:04:06] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:06] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2500s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:07] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:07] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2525s1.shtml 网页数据:
+[2018-01-09 22:04:07] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:07] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2525s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:07] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:07] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2550s1.shtml 网页数据:
+[2018-01-09 22:04:07] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:09] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2550s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:09] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:09] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2575s1.shtml 网页数据:
+[2018-01-09 22:04:09] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:09] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2575s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:09] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:09] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2600s1.shtml 网页数据:
+[2018-01-09 22:04:09] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:09] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2600s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:10] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:10] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2625s1.shtml 网页数据:
+[2018-01-09 22:04:10] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:10] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2625s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:10] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:10] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2650s1.shtml 网页数据:
+[2018-01-09 22:04:10] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:12] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2650s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:12] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:12] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2675s1.shtml 网页数据:
+[2018-01-09 22:04:12] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:12] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2675s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:12] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:12] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2700s1.shtml 网页数据:
+[2018-01-09 22:04:12] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:14] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2700s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:14] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:04:14] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2725s1.shtml 网页数据:
+[2018-01-09 22:04:14] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:17] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2725s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:18] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:18] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2750s1.shtml 网页数据:
+[2018-01-09 22:04:18] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:21] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2750s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:21] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:04:21] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2775s1.shtml 网页数据:
+[2018-01-09 22:04:21] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:25] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2775s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:25] INFO crawl_web.py[line:53]  检测到 24 个手机网址，写入文件成功
+[2018-01-09 22:04:25] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2800s1.shtml 网页数据:
+[2018-01-09 22:04:25] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:25] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2800s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:25] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:25] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2825s1.shtml 网页数据:
+[2018-01-09 22:04:25] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:27] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2825s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:27] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:27] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2850s1.shtml 网页数据:
+[2018-01-09 22:04:27] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:29] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2850s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:29] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:29] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2875s1.shtml 网页数据:
+[2018-01-09 22:04:29] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:32] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2875s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:32] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:32] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2900s1.shtml 网页数据:
+[2018-01-09 22:04:32] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:04:35] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2900s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:04:35] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:04:35] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2925s1.shtml 网页数据:
+[2018-01-09 22:04:35] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
+[2018-01-09 22:05:15] DEBUG connectionpool.py[line:396] http://product.pconline.com.cn:80 "GET /mobile/2925s1.shtml HTTP/1.1" 200 None
+[2018-01-09 22:05:15] INFO crawl_web.py[line:53]  检测到 25 个手机网址，写入文件成功
+[2018-01-09 22:05:15] INFO crawl_web.py[line:27] 开始处理 http://product.pconline.com.cn/mobile/2950s1.shtml 网页数据:
+[2018-01-09 22:05:15] DEBUG connectionpool.py[line:208] Starting new HTTP connection (1): product.pconline.com.cn
