@@ -43,13 +43,7 @@ def crawl_mobile_info():
                 print "-" * 30
             '''
 
-            # 查出手机类型、上市时间等所有的列
-            # 定义一个 set，进行重复列的过滤
-
-            # 定义一个字典：{'手机类型'： '智能手机，拍照手机'， '屏幕大小'：'4.7英寸'}
-
-            # 定义一个列表result：[['手机类型', '智能手机,拍照手机'],['屏幕大小', '4.7英寸'], ['屏幕分辨率', '1334×750像素']]
-            canshu = ['上市时间', '屏幕大小', '屏幕分辨率', '像素密度', '系统', '电池容量', 'CPU品牌', 'CPU', 'CPU频率', 'GPU', '运行内存', '机身容量', '后置摄像头', '前置摄像头', '重量', '尺寸']
+            canshu = [u'上市时间', u'屏幕大小', u'屏幕分辨率', u'像素密度', u'系统', u'电池容量', u'CPU品牌', u'CPU', u'CPU频率', u'GPU', u'运行内存', u'机身容量', u'后置摄像头', u'前置摄像头', u'重量', u'尺寸']
 
             # 搜索手机类型、上市时间等字段的值
             for m in mobile_bs.select("div .bd tbody tr")[:-6]:
@@ -58,7 +52,6 @@ def crawl_mobile_info():
                 # print "-------m: end"
 
                 for m1 in m.select("th"):
-                    # print "m1.text:", m1.text
                     result_value = []
 
                     # 检测到一个，检查是否在需要爬取的字段中
@@ -77,49 +70,31 @@ def crawl_mobile_info():
                             for a in m.select("td"):
                                 result_value.append(a.text.rstrip('\n\r').lstrip('\n\r'))
 
-                        # print "result_value:", result_value
-
                         result_url[m1.text] = result_value
+                        # print "aaa", result_url
                         result_tmp.append(result_url)
 
-                    else:
-                        pass
+            # 数据清洗，比对 canshu_data 与 canshu 中的数据
+            canshu_data = []
+            for rr in result_tmp:
+                canshu_data.append(rr.keys()[0])
+
+            # 如果 canshu 中的数据在 canshu_data 中没有，则此数据的 value 为 None
+            data = set(canshu).difference(set(canshu_data))
+            for d in data:
+                result_tmp.append({d: 'None'})
+
             print "当前 URL 总共爬取 %d 个字段，数据为： %s" % (len(result_tmp), result_tmp)
             result.append(result_tmp)
             print "----end URL 爬取完成，这是爬取的 %d 个 URL" %len(result)
         return result
-            # break
-    #     print "result:", result
-    #     print "00" * 30
-    # print "result type:", type(result)
-    #
-    #
-    #
-    # with open('result.txt', 'a') as f:
-    #     f.write(unicode(result))
-    #             # 如果该字段不需要爬取，则 pass
-    #
-    #         # 搜索智能手机,商务手机,音乐手机等
-    #         # for a in mobile_bs.select("div .bd tbody tr td .poptxt"):
-    #         #     print a.text
-    #         #     print "^^" * 30
-    #
-    # return result
 
-    # print mobile_info_dict
-# //*[@id="Jbasicparams"]/tbody/tr[2]/td/div/a
-
-    # print "canshu all:", canshu
-    # print "canshu:::"
-    # for c in canshu:
-    #     print c
 
 def main():
     mobile_info = crawl_mobile_info()
     print "mobile_info", mobile_info
     for m in mobile_info:
         print m
-
 
     print len(mobile_info)
 
