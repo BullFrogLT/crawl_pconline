@@ -1,5 +1,5 @@
 # crawl_pconline
-[![PyPI version]
+## python       requests      BeautifulSoup     sqlite3
 
 # 本工具主要功能是爬取太平洋电脑网中所有手机详细信息
 
