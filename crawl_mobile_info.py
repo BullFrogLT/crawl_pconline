@@ -1,18 +1,22 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
-# author: tliu
-# update: 20180106
+# author: BullFrog
+# update: 20180124
 
-import json
+import time
+import datetime
 import requests
+from init_db import new_db
 from bs4 import BeautifulSoup
 import sys
 reload(sys)
 sys.setdefaultencoding('UTF-8')
 
+db = new_db()
 
 def crawl_mobile_info():
-    result = []
+    # result 用于统计爬取结果数
+    result = 0
     header_login = {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
         'Accept-Encoding': 'gzip, deflate',
@@ -24,25 +28,28 @@ def crawl_mobile_info():
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'
     }
 
-
+    # 取待抓取的网站
     with open('mobile_info.txt', 'r') as f:
-        for line in f.readlines():
+        for url in f.readlines():
+            import_data = []    # 用于数据入库的变量
             result_tmp = []
-            url = line
             print "----start 正在处理 URL ：", url
-            # url ="http://product.pconline.com.cn/mobile/apple/575351_detail.html"
+            # url ="http://product.pconline.com.cn/mobile/tcl/549581_detail.html"
 
             mobile_res = requests.get(url, headers=header_login)
             mobile_bs = BeautifulSoup(mobile_res.content, "lxml", from_encoding='gb2312')
 
-            # 搜索基本参数、网络支持等
-            '''
-            for base1 in mobile_bs.select("div .bd table th i"):
-                print base1.string
-                # 需要去掉最后一个 None
-                print "-" * 30
-            '''
+            try:
+                name = mobile_bs.select("div .hd h3")[0]
+                biaoti = name.text
+            except:
+                # 如果抓取不到则将 url 写入待处理文件中，以后再分析
+                biaoti = "N"
+                with open('mobile_info_except.txt', 'a') as e:
+                    e.writelines(url)
+                continue
 
+            # 设置页面中需要抓取的字段
             canshu = [u'上市时间', u'屏幕大小', u'屏幕分辨率', u'像素密度', u'系统', u'电池容量', u'CPU品牌', u'CPU', u'CPU频率', u'GPU', u'运行内存', u'机身容量', u'后置摄像头', u'前置摄像头', u'重量', u'尺寸']
 
             # 搜索手机类型、上市时间等字段的值
@@ -70,8 +77,9 @@ def crawl_mobile_info():
                             for a in m.select("td"):
                                 result_value.append(a.text.rstrip('\n\r').lstrip('\n\r'))
 
+                        # 每个字段就是一个字典，key 为 canshu 中的值，value 为数据
+                        # result_tmp 是以列表形式的每行数据
                         result_url[m1.text] = result_value
-                        # print "aaa", result_url
                         result_tmp.append(result_url)
 
             # 数据清洗，比对 canshu_data 与 canshu 中的数据
@@ -84,19 +92,35 @@ def crawl_mobile_info():
             for d in data:
                 result_tmp.append({d: 'None'})
 
-            print "当前 URL 总共爬取 %d 个字段，数据为： %s" % (len(result_tmp), result_tmp)
-            result.append(result_tmp)
-            print "----end URL 爬取完成，这是爬取的 %d 个 URL" %len(result)
+            # 每条数据第一个字段值为手机型号
+            import_data.append([biaoti])
+            # 对数据按canshu 的顺序进行排序，便于数据入库
+            # 将canshu中的数据值依次加入import_data 列表中
+            for c in canshu:
+                import_data.extend((r.values()[0] for r in result_tmp if r.keys()[0] == c))
+
+            print "当前 URL 总共爬取 %d 个字段，数据为： %s" % (len(import_data), import_data)
+
+            # 数据入库
+            db.import_data(import_data)
+
+            result = result + 1
+            print "----end URL 爬取完成，这是爬取的 %d 个 URL" %result
         return result
 
 
 def main():
-    mobile_info = crawl_mobile_info()
-    print "mobile_info", mobile_info
-    for m in mobile_info:
-        print m
+    start_time = time.time()
+    print "程序开始： ", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))
+    mobile_info_num = crawl_mobile_info()
 
-    print len(mobile_info)
+    print "--------------------------------------------------"
+    print "所有手机网页爬取完成，总共爬取 %d 个手机网页" % mobile_info_num
+    end_time = time.time()
+    print "程序结束： ", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(end_time))
+
+    print "程序总耗时： ", end_time - start_time
+
 
 if __name__ == '__main__':
     '''
