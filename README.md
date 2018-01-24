@@ -1,10 +1,14 @@
 # crawl_pconline
-## python       requests      BeautifulSoup     sqlite3
+*  :white_check_mark:  python       
+*  :white_check_mark:  requests
+*  :white_check_mark:  BeautifulSoup
+*  :white_check_mark:  sqlite3
 
 # 本工具主要功能是爬取太平洋电脑网中所有手机详细信息
 
 
         需要抓取的字段：
+        手机型号
         上市时间
         屏幕大小
         屏幕分辨率
