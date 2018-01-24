@@ -6,9 +6,8 @@
 
 # 本工具主要功能是爬取太平洋电脑网中所有手机详细信息
 
-
         需要抓取的字段：
-        手机型号
+        手机型号
         上市时间
         屏幕大小
         屏幕分辨率
@@ -25,7 +24,7 @@
         前置摄像头
         重量
         尺寸
-
+        
 
 # 爬取数据展示
 ![数据展示.png](https://github.com/BullFrogLT/crawl_pconline/blob/master/pic/数据展示.png "数据展示.png")
